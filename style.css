@@ -95,9 +95,6 @@ button{
     font-size: 18px;
     font-weight: bolder;
 }
-button:hover{
-    background-color: hsl(223, 47%, 23%);
-}
 
 .footer > a{
     margin-top: 30px;
